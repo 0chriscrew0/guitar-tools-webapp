@@ -1,0 +1,20 @@
+# Node (frontend)
+node_modules/
+frontend/dist/
+
+# Python (backend)
+backend/__pycache__/
+backend/.venv/
+*.pyc
+*.pyo
+*.db
+
+# macOS cruft
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# Environment
+.env
